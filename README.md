@@ -1,4 +1,4 @@
-# 🌱 Greenhouse Gas Monitoring App
+# 🌱 Greenhouse Gas Emissions  Monitoring App
 
 This project integrates **greenhouse monitoring** and **CO/CO₂ monitoring** with a user interface and geospatial visualization using **Google Earth Engine**.  
 It provides tools for monitoring environmental parameters inside a greenhouse and mapping air quality data.
